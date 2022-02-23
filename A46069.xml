@@ -1,0 +1,851 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation by the lord lievtenant and covncell, for an imposition upon diverse commodities for the raising of monies for His Majesties armie, expressed in the booke following.</title>
+            <author>Ireland. Lord Lieutenant (1644-1645 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46069</idno>
+            <idno type="STC">Wing I619A</idno>
+            <idno type="STC">ESTC R39302</idno>
+            <idno type="EEBO-CITATION">18367764</idno>
+            <idno type="OCLC">ocm 18367764</idno>
+            <idno type="VID">107375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107375)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation by the lord lievtenant and covncell, for an imposition upon diverse commodities for the raising of monies for His Majesties armie, expressed in the booke following.</title>
+                  <author>Ireland. Lord Lieutenant (1644-1645 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[3], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Royal arms on page opposite t.p.</note>
+                  <note>"Given at His Majesties castle of Dublin, 9. December, 1644."--P. 18.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Ireland.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="royal_blazon">
+            <pb facs="tcp:107375:1"/>
+            <p>HONI SOIT QVI MAL Y PENSE</p>
+            <p>DIEV ET MON DROIT</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:107375:1"/>
+            <p>A PROCLAMATION BY THE LORD LIEVTENANT AND COVNCELL, FOR AN IMPOSITION upon diverſe Commodities, for the raiſing of monies for His <hi>Majeſties</hi> Armie, expreſſed in the BOOKE following.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN, Printed by</hi> VVILLIAM BLADEN, Anno Dom. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107375:2"/>
+            <pb facs="tcp:107375:2"/>
+            <head>By the Lord Lieutenant and Councell.</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE having taken into Our ſerious con<g ref="char:EOLhyphen"/>ſideration the preſent ſtate and con<g ref="char:EOLhyphen"/>dition of this Kingdome, doe by this Our Proclamation in purſuance of an Act of Councell made at this Board, bearing date the 4th day of <hi>December,</hi> 1644. Publiſh and declare, that for the reaſons in the ſaid Act of Councell con<g ref="char:EOLhyphen"/>teined, and for the raiſing of a ſumme of money weekly towards the maintenance of the Army for ſix moneths next enſuing, that there be during the time aforeſaid (if the neceſſities of the Army be not in the interim otherwiſe relieved) a rate and Impoſition ſet upon the particulars hereafter mentioned, in manner and forme hereafter expreſſed, to be duely paid unto <hi>Thomas Leigh, Daniell Foſter,</hi> &amp; <hi>Thomas Cuffe,</hi> gentlemen, upon whom WE have for the preſent conferred the Office of Impoſtmaſters, or to ſuch as ſhall be lawfully Authorized to be the Impoſtmaſters, and at the Office appointed to be kept at the Houſe of <hi>Henry King</hi> in Caſtle ſtreet, or elſewhere, for the Im<g ref="char:EOLhyphen"/>poſt Office, by ſuch perſons, and in ſuch manner, as hereafter is declared: and that the monies ariſing thereupon, be weekly paid by the ſaid Impoſtmaſters, unto His Majeſties Vice Treaſurer and Treaſurer at Warres, or to whom he ſhall appoint, to be by him iſſued from time to time, as this Board ſhall direct.</p>
+            <pb n="2" facs="tcp:107375:3"/>
+            <p>
+               <hi>The Rate or Impoſition upon Ale or Beere,</hi>
+               <note place="margin">Beere.</note> 
+               <hi>to be retailed in the Citie or Suburbs of</hi> Dublin, <hi>or in any part of the County of</hi> Dublin, <hi>by them that brew it, viz. All manner of Ale or beere, to be ſould at three pence the quart to pay ten ſhillings Impoſition per barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>Ale or Beere to be ſould at two pence the quart, to pay ſix ſhillings eight pence per barrell and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>Ale or Beere to be ſould at one penny the quart to pay three ſhillings foure pence per barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Ale or Beere, bought of the brewer, to be retailed or Imported, or brought from forreigne parts, and bought here to be retailed, viz. Ale or Beere to be ſould at three pence the quart, to pay eight ſhillings Impoſition per burrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>Ale or Beere to be ſould at two pence the quart, to pay five ſhillings per barrell and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>Ale or Beere to be ſould at one penny the quart, to pay three ſhillings per barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Ale or Beere ſpent in any private houſe,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uſe.</note> 
+               <hi>in the Citie or Suburbs of</hi> Dublin, <hi>or in any the liberties adjoyning to the ſaid Citie, whether the ſame be brewed by the perſons themſelves that ſpend it, or bought from the brewers, or forreigne parts, viz.</hi>
+            </p>
+            <p>
+               <hi>Ale or beere of ſixteen ſhillings and upwards per barrell, to pay foure ſhillings Impoſition per barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>Ale or Beere of eight ſhillings per barrell, and upward to ſixteene ſhillings per barrell, to pay two ſhillings per barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>Ale or Beere of five ſhillings per barrell, and upward to eight ſhil<g ref="char:EOLhyphen"/>lings per barrell, to pay twelve pence per barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>And WE hereby declare that it is meant and intended by this Proclamation that houſekeepers in the Countrey, not ſelling or retayling Ale or Beere, ſhall not pay any Impoſition by vertue of this Proclamation for or by reaſon of the Ale or Beere they ſhall brew and ſpend in their owne houſes for themſelves and their families.</p>
+            <pb n="3" facs="tcp:107375:3"/>
+            <p>
+               <hi>The rate or Impoſition upon Aquavitae and all manner of hot waters,</hi>
+               <note place="margin">Aquav<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Hotwa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>in the City or Suburbs of</hi> Dublin, <hi>or any part of the County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Aquavitae and all hotwaters bought or ſould to be retailed againe, to pay one ſhilling and foure pence Impoſition per gallon.</hi>
+            </p>
+            <p>
+               <hi>Aquavitae and all Hotwaters bought or ſould by or to any that ſhall not retaile the ſame againe, to pay eight pence Impoſition per gallon.</hi>
+               <note place="margin">Wines.</note>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Wines bought to be ſould againe by retaile in the City or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All manner of French Wines rackt or unrackt, to pay ſix pounds Impoſition per Tonne, accounting foure Hogſheads to the Tonne, and all other gages rateably, and allowed to be retailed at eight pence per quart.</hi>
+            </p>
+            <p>
+               <hi>All Wines of the Spaniſh growth, rackt or unrackt, to pay ſix pounds Impoſition per Pipe or Butte, and all other gages rateably, and allowed to be retailed at one ſhilling foure pence per quart.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Wines, bought or brought into private Houſes for their owne uſes, viz.</hi>
+            </p>
+            <p>
+               <hi>All manner of French Wines, rackt or unrackt, to pay three pounds Impoſition per Tonne accounting foure Hogſheads to the Tonne, and all other gages rateably.</hi>
+            </p>
+            <p>
+               <hi>All Wines of the Spaniſh growth, rackt or unrackt to pay three pounds Impoſition per Pipe or Butte, and all other gages rateably.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Herrings, in the Citie or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of Herrings, whether full, ſhotters, or ſwimmers,</hi>
+               <note place="margin">Herring<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>be they pickeled or ſmoaked, to be ſpent within this Kingdome, and to be ſould, to pay twelve pence Impoſition per barrell, and ſo rateably for other quantities.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon all ſorts of Vinegar, Perry, Cydar,</hi>
+               <note place="margin">Vinegar &amp;c.</note> 
+               <hi>Alegar, and Verjuice, in the Citie or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of Vinegar, Perry, Cydar, Alegar, and Verjuice, that ſhall be brought or made within the ſaid limmits, to pay five ſhillings Impoſition per Hogſhead, and ſo rateably for other quantities.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Salt, in the City or Suburbs of</hi> Dublin,<note place="margin">Sale.</note> 
+               <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <pb n="4" facs="tcp:107375:4"/>
+            <p>
+               <hi>All ſorts of Salt, to pay twelve pence Impoſition per barrell, water meaſure, and ſo rateably for other quantities.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Tobaccoe,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oe.</note> 
+               <hi>in the Citie or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of Tobaccoe in Rolle, leafe or Sneeſing, to pay three pence Impoſition le pound.</hi>
+            </p>
+            <p>
+               <hi>All Tobaccoe ſtalkes, to pay one penny halfe penny Impoſition le pound.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Corne in the City or Suburbs of</hi> Dub<g ref="char:EOLhyphen"/>lin, <hi>or liberties adjoyning, viz.</hi>
+            </p>
+            <p>
+               <hi>All Wheat and Miſceline, to pay two ſhillings Impoſition per pocke heape; or barrell ſtrike meaſure, and ſo rateably for other meaſures.</hi>
+            </p>
+            <p>
+               <hi>All Rye, Beare, Barley, Peaſe, Beanes and Buckwheat, to pay eighteen pence Impoſition per pecke heape, or barrell ſtrike meaſure, and ſo rateably for other meaſures.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of Meale, Flower, Grotts, Bread and Bisket, brought either by Sea, to the Port of</hi> Dublin, <hi>or any the Creeks or members of the ſaid Port, or brought by Land from other parts, into the City or Suburbs of</hi> Dublin, <hi>or liberties adjoyning to pay twelve pence Impo<g ref="char:EOLhyphen"/>ſition the hundred weight, and ſo rateably for other quantities.</hi>
+            </p>
+            <p>
+               <hi>And all Mault to be ground, ſhall be entred in the Impoſt Office, without paying any Impoſt for the grinding.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Candles,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s.</note> 
+               <hi>in the City or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of Candles, to pay ſix pence Impoſition per dozen pounds, and ſo rateably for other quantities.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Hydes and Skinnes,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> &amp; Skins</note> 
+               <hi>in the City or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of tanned Hydes, weighing (before currying) ten pounds or upward, to pay twelve pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of tanned Hydes or Skinnes, weighing ſix pounds or upward <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ten pounds, to pay ſix pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All other ſorts of tanned Hydes or Skinnes whatſoever, weighing under ſix pounds le peece, to pay ſix pence Impoſition per dozen.</hi>
+            </p>
+            <p>
+               <hi>All Goats Skinnes or other Skinnes, tanned and dreſſed as Spaniſh</hi>
+            </p>
+            <pb n="5" facs="tcp:107375:4"/>
+            <p>
+               <hi>Leather, and all Buckskinnes and Stagskinnes, to pay ſix pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Goatskinnes dreſſed otherwiſe, to pay two ſhillings Impoſition per dozen.</hi>
+            </p>
+            <p>
+               <hi>All Kidskinnes, Lambskinnes, Sheepskinnes, and Slinkskines, tan<g ref="char:EOLhyphen"/>ned or dreſsed, to pay three pence Impoſition per dozen.</hi>
+            </p>
+            <p>
+               <hi>All Buffeskinnes, and all other Hydes and skinnes dreſſed after the manner of Buffe, to pay two ſhillings le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Cattell ſlaughtered,</hi>
+               <note place="margin">Cattell.</note> 
+               <hi>to be ſould in the City or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All manner of Oxen, Bulls, Cowes, Steeres, and Bullocks, to pay foure ſhillings le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Calves, to pay two ſhillings le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Swine above ſix weekes old, and all Sheepe and Goates to pay</hi> 12 <hi>pence le peece Impoſition. And all Lambs and Kids, to pay ſix pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Cattell, ſlaughtered by any to ſalt up for their owne uſes, or to eate or ſpend freſh in their owne Houſes, viz.</hi>
+               <note place="margin">Private <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>
+               <hi>All manner of Oxen, Bulls, Cowes, Steeres and Bullocks, to pay two ſhillings le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Calves to pay twelve pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Swine above ſix weeks old, and all Sheep and Goats, to pay ſix pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Lambs and Kids, to pay three pence le peece Impoſition.</hi>
+            </p>
+            <p>And WE hereby declare, that it is meant and intended by this Proclamation, that Houſekeepers in the Countrey ſhall not pay any Impoſition, by vertue of this Proclam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, for or by reaſon of any Cattell they ſhall ſlaughter and ſpend in their owne Houſes for themſelves and their families.</p>
+            <p>
+               <hi>All Bootes, Shooes, Slippers, Broages,</hi>
+               <note place="margin">Shooes, S<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pers, &amp;c.</note> 
+               <hi>and all other commodities made of Hydes and Skinnes tanned or dreſsed, that ſhall be brought into the City and Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>to pay Impoſt according to the diſcretion of the Commiſſioners.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon commodities hereafter to be Imported into the City or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <note place="margin">Commod<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Imported.</note> 
+               <hi>viz.</hi>
+            </p>
+            <pb n="6" facs="tcp:107375:5"/>
+            <p>
+               <hi>All commodities to be Imported or brought into the limmits afore<g ref="char:EOLhyphen"/>ſaid, either by Sea or Land, to pay twelve pence per pound to be rated according the Booke of Rates in His Majeſties Cuſtome Houſe at</hi> Dublin, <hi>except Victuals, and ſuch other commodities as are mentioned in a Proclamation bearing date, the fourth of</hi> December, 1644.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>modities <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed.</note> 
+               <hi>The rate or Impoſition upon Broad-Cloath, and all other commodi<g ref="char:EOLhyphen"/>ties, that ſhall be exported or carried by Land out of the City or Sub<g ref="char:EOLhyphen"/>urbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All Broad-Cloath; and other commodities not having paid former<g ref="char:EOLhyphen"/>ly Cuſtome and Impoſt in the ſaid Cuſtome Houſe, by Importation to pay ſuch Impoſt as is laid on them in the Cuſtome-Houſe, being expor<g ref="char:EOLhyphen"/>ted And all commodities not charged in the Cuſtome-Houſe with any ſuch Impoſt, to pay Impoſt according the Booke of Rates in the ſaid Cuſtome. Houſe.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon fire wood,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>wood.</note> 
+               <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of fire wood, piled or laid up in yards or other places within the City or Suburbs of</hi> Dublin, <hi>or liberties adjoyning to the ſaid City to be ſould, to pay two ſhillings Impoſition per cord, and ſo rateably for other quantities.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>coale and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</note> 
+               <hi>The rate or Impoſition upon Seacoale and Coome, in the ſaid Citie and Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All ſorts of Seacoale and Coome, that ſhall be ſould after Landing, to pay two ſhillings Impoſition per tonne, and ſo rateably for other quantities.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon brewers,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ers.</note> 
+               <hi>in the City or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All brewers of Ale or Beere that doe not retaile the ſame, to pay two pence Impoſition per barrell for every barrell of Ale and Beere ſtrong or ſmall they ſhall ſell.</hi>
+            </p>
+            <p>
+               <hi>The rate or Impoſition upon Maulſters,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſters.</note> 
+               <hi>in the City or Suburbs of</hi> Dublin, <hi>or County of</hi> Dublin, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>All Maulſters and others to pay foure pence Jmpoſition for every barrell of Wheat, Peaſe, Beanes, Barley, or Beare Mault. And two pence Jmpoſition for every barrell of Oate Mault they ſhall ſell.</hi>
+            </p>
+            <pb n="7" facs="tcp:107375:5"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> And for the better performance and due execution of all and ſingular the premiſes, WE doe hereby in His Majeſties Name ſtrictly charge and command, that from and after the publiſhing of this Proclamation, no manner of perſon or perſons whatſoever, within the limmits aforeſaid, ſhall brew Ale or Beere,<note place="margin">Entring o<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> names.</note> either for ſale, retaile or private uſe, or diſtill, ſell or retaile, Aquavitę or any ſort of Hotwaters, or ſell either by wholeſale or retaile any ſort of Wine, forreigne Beere, Herrings, Vinegar, Perry, Cydar, Alegar, Verjuice, Salt, Tobaccoe, Sneeſing or Tobaccoe ſtalkes, or any ſort of Meale, Flower, Grotts, Bread or Biskett, or any ſort of Sea coal, or Fire wood; or make any Candles, or Mault, either for ſale or private uſe, or ſell or retaile the ſame, or any way deale or trade in any kinde of Hydes or Skinnes tanned, curryed or dreſſed, or any commodities made thereof, or any other commodity mentioned in this Proclamation, or uſe or exerciſe any kinde of Mill or Mills, for grinding of any ſort of Corne, or ſlaughter any Cattell for ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, untill ſuch time as he or they firſt enter his and their names and dwelling places, in the Impoſt Office, and theſe receive admittance, to deale in the ſaid ſeverall kinds reſpectively, upon paine of five pounds for every one that ſhall ſo neglect to enter his name.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> That all Merchants and others that ſhall any way Import into the City and Suburbs of <hi>Dublin,</hi> or County of <hi>Dublin,</hi> either by Land or water. Aquavitae or any ſort of Hotwaters, Wine, Beere, Herrings, Vinegar, Perry, Cydar, Alegar, Verjuice, Salt, Tobaccoe, Sneeſing or Tobaccoe ſtalkes, or any ſort of Meale, Flower, Grotts, Bread, or Bisket, or any Candles, Hydes, or Skinnes tanned, curryed or dreſſed, or any Bootes, Shooes, Slippers, Broages, or other com<g ref="char:EOLhyphen"/>modities made of Hydes, or Skinnes tanned, curryed or dreſſed, or any Broadcloath, or other commodities particularly,<note place="margin">Merchant<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> enter thei<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> names and commodit<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> mentioned or not mentioned in this Proclamation, ſhall before the Landing, Houſing or Cellaring thereof, enter their names in the Impoſt Office, and deliver into the hands of the Impoſtmaſters a true note of the quality and quantity of all the ſeverall commodities they intend to Land, or bring within the limmits aforeſaid, and to Land or bring in no more then they ſhall ſo certifie, And not ſell or any
+<pb n="8" facs="tcp:107375:6"/>diſpoſe of any part thereof, without Ticquet from the Impoſtmaſ<g ref="char:EOLhyphen"/>ters firſt delivered him or them, or his or their ſervants, upon paine of forfeiture of the commodities ſo Landed or brought in, and not certified or ſould or diſpoſed of without Ticquet as aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> That all manner of perſon or perſons whatſoever, within the limmits aforeſaid, that ſhall brew any Ale or Beere, or diſtill Aqua<g ref="char:EOLhyphen"/>vitae or any Hotwaters, either for ſale or retaile, or ſhall ſell or retaile any ſort of Wine, forreigne Beere, Herrings, Vinegar, Perry, Cydar, Alegar,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng of <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> Verjuice, Salt, Tobaccoe, Sneeſing or Tobaccoe ſtalkes, or any ſort of Meale, Flower, Grotts, Bread or Bisket, or ſhall make any Candles, or Mault for ſale or private uſe, or ſhall tanne or dreſſe any ſort of Hydes or Skinnes, or receive for ſale ready tanned or dreſſed, any Hydes or Skinnes, or any commodities made thereof, or receive for ſale any other commodity mentioned in this Procla<g ref="char:EOLhyphen"/>mation, or ſhall uſe or exerciſe any kinde of Mill or Mills for grin<g ref="char:EOLhyphen"/>ding of any ſort of Corne, or ſlaughter any Cattell for ſale, from and immediatly after the publiſhing of this Proclamation, ſhal keep or cauſe to be kept a true account in a Book plainely written, of the quality and quantity of all the Ale, Beere, Aquavitae and Hotwaters he or they ſhall brew or diſtill from time to time, of all the Wine, forreigne Beere, Vinegar, Perry, Cydar, Alegar, Verjuice, Salt, Tobaccoe, Sneeſing or Tobaccoe ſtalkes, Meale, Flower, Grotts, Bread or Bisket, he or they ſhall ſell or retaile, of all the Mault and Candles he or they ſhall make for ſale or private uſe, of all the Hydes, or Skinnes he or they ſhall tanne or dreſſe, or ſhall receive for ſale ready tanned or dreſſed, or other commodity made of the ſame, or any other commodity mentioned in this Proclamation, of the quantity and kinde of all ſuch Corne (either Maulted or not Maulted) as he or they ſhall daily grinde, either for themſelves <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or others, with the names and dwelling places of all thoſe for whom they ſhall ſo grinde, and of all the Beaſts and kinds of Cattell, he or they ſhall weekly ſlaughter for ſale, of which account they and every of them are to deliver unto the Commiſſioners of the Impoſt a true copie as often as they ſhall be thereunto required, upon paine
+<pb n="9" facs="tcp:107375:6"/>of forty ſhillings for every neglect thereof.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> That no Merchant or other that trades by wholeſale, within the ſaid limmits, in any Aquavitae, Hotwaters, Wine, forreigne Beere, Herrings, Vinegar, Perry, Cydar, Alegar, Verjuice, Salt, Tobaccoe, Sneeſing or Tobaccoe ſtalkes, Meale, Flower, Grotts, Bread or Bis<g ref="char:EOLhyphen"/>kett, Candles, Hydes, and Hydes tanned, curryed or dreſſed,<note place="margin">None to d<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ver witho<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Ticquet.</note> or any commodity made thereof, or any other commodity mentioned in this Proclamation, ſhall diſpoſe ſell or ſuffer to go forth of his Houſe Cellar Storehouſe or poſſeſſion, any of the above named, or other commodities mentioned in this Proclamation before a Tic<g ref="char:EOLhyphen"/>quet thereof from the Impoſt maſters firſt delivered him or them, or his or their ſervant, upon paine of five pounds for every default.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> That no manner of perſon or perſons whatſoever, receive or cauſe to be received, into his or their or any other houſe or cuſtody, any of the above named,<note place="margin">None to r<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eive with Ticquet.</note> or other commodities mentioned in this Proclamation, by way of wholeſale without Ticquet for the ſame, firſt obteined from the Impoſt maſters, and Impoſt paid upon paine as above is expreſſed, and as well the ſeller as buyer of any of the above named or other commodities mentioned in this Proclama<g ref="char:EOLhyphen"/>tion,<note place="margin">Quantity wholeſale.</note> are to take notice that by wholeſale is meant no leſſe weight, meaſure or number of the ſaid ſeverall kinds then hereafter is ex<g ref="char:EOLhyphen"/>preſſed. That is to ſay Aquavitae and all Hotwaters a gallon, Wine one Hogſhead, forreigne Beere a quarter of a barrell, Herrings halfe a barrell, Vinegar, Perry, Cydar, Alegar and Verjuice, halfe a barrel, Salt halfe a barrell, Tobaccoe Sneeſing or Tobaccoe ſtalkes fifty pounds, Meale, Flower, Grotts Bread or Biskett a hundred weight, Candles ten dozen pounds, Hydes and Skinnes of all ſorts tanned curryed or dreſſed, as is before in the rates expreſſed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> That no brewer of Ale or Beere, that doth not retaile the ſame, doe diſpoſe ſell or any way ſuffer any Ale or Beere to go forth of his houſe or ſtorehouſe, without a Ticquet from the Impoſt maſters,<note place="margin">Brewers n<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> deliver wi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>out Ticqu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> of the true quality and quantity of the ſaid Ale or Beere firſt delive<g ref="char:EOLhyphen"/>red him or them, or his or their clarke and not to deliver any other or more Ale or Beere then he or they ſhall receive Ticquet for,
+<pb n="10" facs="tcp:107375:7"/>upon paine of three pounds for every barrell ſo delivered for the firſt offence, and ſix pounds for every barrell for the ſecond offence, and ten pounds for every barrell for the third offence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> That no perſon or perſons whatſoever, receive or cauſe to be received into his or their or any other houſe, any Ale or Beere (whether the ſame be brewed or brought within the limits aforeſaid) untill ſuch time as the Impoſt thereof be paid and a Tic<g ref="char:EOLhyphen"/>quet obtein<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d from the Impoſt maſters,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>to re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Ale or without <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ct.</note> of the true quality and quantity of the ſaid Ale or Beere, upon paine of three pounds for every barrell ſo received for the firſt offence, and ſix pounds a barrel ſo received for the ſec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd offence, and ten pounds a barrell ſo recei<g ref="char:EOLhyphen"/>ved for the third offence.</p>
+            <p>That all manner of perſon or perſons whatſoever, within the City or Suburbs of <hi>Dublin</hi> or liberties adjoyning, that ſhall brew any Ale or Beere, in his or their or any other houſe either for retaile or private uſe,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g of Ale <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eere <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> twenty <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oures <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uning.</note> doe within twenty foure houre, after the tunning of his or their Ale or Beere, enter or cauſe to be entred the quality and full quantity thereof in the Impoſt Office, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re pay the Impoſt, and take out Ticquet for the ſame, and ſhall not from henceforth preſume to tunne or cauſe to be tunned any Ale or Beere, in any caske whatſoever,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ity of <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es.</note> ſave in Butts, Pip<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Hogſheads, barrells, halfe barrells and quarter barrells, of thirty two gallons the barrell. And every Butt or Pipe to be accounted and entred for foure whole barrells, and every Hogſhead for two whole barrells, and no leſſe upon paine of three pounds for every offence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> That no brewer of Ale or Beere, within the City or Suburbs of <hi>Dublin,</hi> or County of <hi>Dublin,</hi> that retailes the ſame, doe ſell reta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le or any waies diſpoſe of any part of ſuch Ale or Beere as they ſhall brew,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s that <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> either in guile or otherwiſe, before entry thereof made as aforeſaid, upon paine of ten ſhillings for every gallon ſo ſould, retai<g ref="char:EOLhyphen"/>led or diſpoſed of, and ſo rateably for other quantities.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> That no retailer of Ale or Beere within the ſaid limmits, that brews the ſame,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of ould <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ew.</note> ſhall mixe or cauſe to be mixed any old with new, with<g ref="char:EOLhyphen"/>out licence firſt obteined from the Commiſſioners of the Impoſt, upon the like penalty.</p>
+            <pb n="11" facs="tcp:107375:7"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> That all brewers of Ale or Beere within the ſaid limmits, that doe not retaile the ſame,<note place="margin">Brewers <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> two pen<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> barrell.</note> ſhall pay two pence per barrell for all the Ale and Beere ſtrong and ſmall which they ſhall weekly fell the ſame, to be paid as the Commiſſioners of the Impoſt ſhall appoint, upon paine of five ſhillings for every barrell not paid for.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> That no retailer of Aquavitae or any Hotwaters, within the ſaid limmits, or any other doe buy the quantity of a gallon or more of Aquavitae or any Hotwaters at any di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>illers or others Importing or bringing the ſame by Sea or Land,<note place="margin">Aquavi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the gall<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> by way of merchandize, untill the Impoſt thereof be p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, and a Ticquet obteined from the Impoſt maſters for the payment thereof, upon paine of payment of ten ſhillings for every gallon of Aquavitae or Hotwaters ſo bought.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> That all Merchants and others, within the City or Suburbs of <hi>Dublin,</hi> or liberties adjoyning, that have now in their poſſeſſion any Aquavitae, Hotwaters, Wines, for eigne Beere, Herrings, Vinegar, Perry, Cydar, Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gar, Verjuice, Salt, Tobaccoe, Sneeſing or Tobaccoe ſtalks<g ref="char:punc">▪</g> Meal, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lower, Grots, Bread, or Bisket, Candles, Mault,<note place="margin">Entring <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> commodi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> Hydes or Skinnes, tanned curryed or dreſſed, or any Commodities made thereof, Fire wood, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Smith<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oale, or Coome, for ſal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or any other commodity mentioned in this Proclamation, within the limmits aſore ſaid, ſhall forthwith after publiſhing of this Proclama<g ref="char:EOLhyphen"/>tion, make true entryes of the full weight, number and meaſure thereof, in the Impoſt Office, and ſhall l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kew<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe from henceforth before the Landing, Houſeing or Cellaring of any of the above men<g ref="char:EOLhyphen"/>tioned, or any oth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> commodities in this Proclamation c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>teyned hereafter, to be received from time to time, make true entryes of the full weight, number and meaſure thereof in the ſaid Impoſt Office, and ſhall not ſell o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any waies diſpoſe of any part thereof, before ſuch entry made, and licence obteined for all ſuch commodities no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rated in this Proclamation, from the Commiſſioners of the Impoſt,<note place="margin">Impoſt by <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> poſition.</note> who are hereby authorized to compound with them for the Impoſt thereof according to their diſcretions, upon paine of five pounds for every one that ſhall neglect to make ſuch entry, or ſell or any way diſpoſe of any of the aforeſaid commodities before ſuch compoſition made.</p>
+            <pb n="12" facs="tcp:107375:8"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> That no Merchant or other within the ſaid City or Suburbs of <hi>Dublin,</hi> or County of <hi>Dublin,</hi> that tradeth in Salt, both by whole ſale and retaile, ſhall from henceforth preſume to bring or cauſe to be brought from his Cellar ſtorehouſe or any other place into his ſhop or elſewhere,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>an<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etaile</note> any Salt to retaile before he have paid Impoſt, and obteined Ticquet from the Impoſt maſters for ſuch quantity as he intendeth to bring there for retaile, and a wayter from the Impoſt Office appointed to ſee the ſaid quantity ſo brought into his ſhop or elſewhere as aforeſaid, upon paine of forty ſhillings for every barrell of Salt brought without Ticquet and a wayter preſent.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> That all Merchants and others within the ſaid limmits, that ſell by wholeſale any Aquavitae or Hotwaters, Wine, forreigne Beere, Herrings, Vinegar, Perry, Cydar, Alegar, Verjuice, Salt, Meale, Flower,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hants <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>te ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> Grotts, Bread, Biskett or Candles, ſhall be rated and con<g ref="char:EOLhyphen"/>ſidered of by the Commiſſioners of the Impoſt Office, for the Her<g ref="char:EOLhyphen"/>rings, Vinegar, Perry, Cydar, Alegar, Verjuice, Salt, Meale, Flower, Grotts, Bread, Biskett or Candles, they ſhall ſpend in their private Houſekeeping, according to the diſcretion of the ſaid Com<g ref="char:EOLhyphen"/>miſſioners.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> That all Vintners and others within the ſaid limmits, that ſhall retaile any Wines, ſhall be in like manner conſidered of for their ſpending and lecage Wine,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ners pri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> expence.</note> according to the diſcretion of the Com<g ref="char:EOLhyphen"/>miſſioners of the Impoſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> That no manner of perſon or perſons whatſoever, within the limits aforeſaid,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of Mills <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> uſed.</note> doe uſe or exerciſe any kind of Mill or Mills, for grinding of any ſort of Corne, other then Horſemills, Windmills and Water mills, upon paine of twenty pounds.</p>
+            <p>That any Miller or other perſon whatſoever,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> within <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mmits.</note> uſing or exerciſing the Mill of <hi>Templeogue,</hi> or any the Mills upon the River of <hi>Dodder,</hi> from thence downwards to the Sea, or the Mils of <hi>Rathfarnam, Mil<g ref="char:EOLhyphen"/>town, Clonskeagh, or Dunabrooke, or</hi> the Mills of <hi>Drumnagh, or</hi> any the Mills upon any ſtreame iſſuing out of the River of <hi>Dodder,</hi> from <hi>Templeogue, to Dublin, or</hi> the Mill of <hi>Palmerſtown, or</hi> any the Mills from thence to the Sea upon the River of <hi>Liffie, or</hi> any ſtream iſſuing
+<pb n="13" facs="tcp:107375:8"/>from thence, <hi>or</hi> the Mills of <hi>Kilmaniam, or</hi> the Mills of <hi>Finglaſſe, or</hi> any the Mills upon the River of <hi>Tolky, or</hi> the Windmill of <hi>Clox<g ref="char:EOLhyphen"/>tarffe; or</hi> any other Mills in or about the City or Suburbs of <hi>Dublin,</hi> doe not receive or cauſe to be received into his or their Mill or Mils, either for themſelves or any other, any manner of Corne, either maulted or not maulted to be ground,<note place="margin">No Mille<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> receive a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> graine wi<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ticquet.</note> or upon any other pretence whatſoever, without a Ticquet from the Impoſt Office firſt delive<g ref="char:EOLhyphen"/>red him or them, or his or their ſervant, expreſſing the quantity and kinde of ſuch Corne, and to receive no more or other Corne or Mault then for which a Ticquet ſhall be delivered unto him or them or his or their ſervant, upon pain of twenty ſhillings for every peck or barrell he or they ſhall ſo receive and ſo rateably for greater or leſſer quantities.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> That no perſon or perſons of what quality or condition ſoever, within the limmits aforeſaid, ſhall ſend or cauſe to be ſent, any Corne either maulted or not maulted to be ground,<note place="margin">Non to ſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> any grain<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> grind wit<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ticquet.</note> in any Mill or Mills other then Horſemills, Windmills, and Watermills, nor ſhall ſend or cauſe to be ſent to any ſuch Mill or Mills, any kinde of Corn to be ground, or upon any other pretence whatſoever untill the Im<g ref="char:EOLhyphen"/>poſt thereof be paid or a Ticquet obteined from the Impoſt Maſters, expreſſing the quantity and kinde of ſuch Corne, and not to ſend any other or more Corne, then they ſhall ſo take Ticquet for, upon paine of twenty ſhillings for every pecke or barrell ſo ſent.<note place="margin">No Mill<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> diſpoſe o<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> toll, with<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ticquet. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> bake bre<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for his fa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and that <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> conſider<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Com<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>oners.</note>
+            </p>
+            <p>That no Miller of any the ſaid Mills in this Proclamation for<g ref="char:EOLhyphen"/>merly named, or other perſon whatſoever, uſing or exerciſing any kinds of Mils, ſhall ſell or any waies diſpoſe of their tole corne with<g ref="char:EOLhyphen"/>out ticquet firſt obteined from the Impoſt maſters, nor ſhall bake any Bread other then to ſpend in his own family, for which he ſhall be conſidered of, by the Commiſſioners of the Impoſt, upon paine of twenty ſhillings for every of the ſaid offences.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> That all Merchants, Tanners, Skinners, and all others that doe or ſhall trade,<note place="margin">Entring <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Leather <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſealing <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> or deale in any of the kinds of Hydes or Skinnes before mentioned, ſhall from henceforth enter in the Impoſt Office, the full number and kinde of all ſuch Hydes and Skinnes as they ſhall
+<pb n="14" facs="tcp:107375:9"/>tanne or dreſſe, or ſhall receive ready tanned or dreſſed from time to time, and ſhall not ſell uſe or any way diſpoſe of any of the ſaid Hydes or Skinnes, before the ſame be throughly dryed and ſealed by a ſeale of the Impoſt Office (without any fee to be paid for the ſame) and Impoſt paid for the ſaid Hydes or Skinnes according to the rates before expreſſed, and a Ticquet obteined from the Impoſt maſters, upon paine of forfeiture of ſix times the Impoſt ſet upon the ſaid Hydes or Skinnes by this Proclamation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> That no perſon or perſons whatſoever, receive or cauſe to be re<g ref="char:EOLhyphen"/>ceived, any of the kinds of Hydes or Skinnes before mentioned,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> receive <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ealing <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>me.</note> from any Merchant, Tanner, Curryer, Skinner or other, before the ſame be throughly dryed and ſealed as aforeſaid, and Impoſt paid, and a Tic<g ref="char:EOLhyphen"/>quet obteined from the Impoſt maſters, upon the like pain as above.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> That all Chandlers and others, that ſhall from henceforth make or receive any Candles for ſale, ſhall make true entryes in the Impoſt Office of all ſuch Candles as they ſhall make,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> or that ſhall hereafter come into their hands from time to time, upon pain of five ſhillings for every dozen pound ſo neglected to be entred.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> That all Chandlers and others that ſhall ſell or receive any Can<g ref="char:EOLhyphen"/>dles ſhall every Thurſday before noone enter in the Impoſt office the full waight of all ſuch Candles as they ſhall have ſould within that weeke,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> and pay the Impoſt ſet upon the ſame and obteine a Ticquet from the Impoſt maſters, upon paine of forty ſhillings, for every do<g ref="char:EOLhyphen"/>zen pound of Candles ſould and not entred and paid for.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/> That all Butchers and others dwelling within the City of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> or two miles thereof, that ſhall ſlaughter any kind or ſort of Cattell before mentioned to ſell,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>es.</note> doe before he or they ſlaughter any Beaſt, enter in the ſaid Impoſt Office, the number and kinds of Cat<g ref="char:EOLhyphen"/>tell or Beaſts that he or they intend to ſlaughter, and pay the Impoſt ſet upon the ſame, and obteine Ticquet thereof from the Impoſt maſters, upon paine of five pounds for every Oxe, Bull, Cow, Steere
+<pb n="15" facs="tcp:107375:9"/>and Bullock, and upon paine of three pounds for every Calfe, and twenty ſhillings for every Sheep, Swine, Goat, Lambe and Kid, ſo ſlaughtered.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25"/> That no maner of perſon or perſons whatſoever, dwelling within the City and <hi>Suburbs</hi> of <hi>Dublin,</hi> or County of <hi>Dublin,</hi>
+               <note place="margin">Entrie o<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> tell for p<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>vate uſe.</note> (by whom any Impoſt is by this Proclamation to be paid) ſhall ſlaughter any of the ſaid kinds of Cattell or Beaſts before mentioned, either to ſalt up for his or their own uſe, or to ſpend or eate freſh in his or their owne Houſes, untill ſuch time as the number and kinds of ſuch Cattell or Beaſts as he or they intend to ſlaughter, be firſt entred in the Impoſt Office, and the Impoſt ſet upon the ſame paid, and a Ticquet thereof obteined from the ſaid Office, upon paine as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26"/> That all Butchers and others, dwelling within the City or Sub<g ref="char:EOLhyphen"/>urbs of <hi>Dublin,</hi> or County of <hi>Dublin,</hi>
+               <note place="margin">Butchers <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> City, Sub<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or Count<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> enter and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Impoſt.</note> that ſhall ſlaughter any of the kinds of Cattell or Beaſts before mentioned to ſell, or that ſhall bring or ſend any of the ſaid kinds of Cattel or beaſts into this City or Sub<g ref="char:EOLhyphen"/>urbs, ready ſlaughtered to be ſould or ſalted up, doe before they offer to ſale, or dispoſe of any of the ſaid Cattell or Beaſts, enter in the Impoſt Office the number and kinds of the ſame, and pay Impoſt after the ſame rate as is hereby appointed to be paid for Cattell ſlaughtered to be ſould, and obteine a Ticquet from the Impoſt Office for the ſame, upon paine as above is expreſſed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27"/> That no Cattell be hereafter ſlaughtered for his Majeſties ſtore, <note place="margin">Cattell ſl<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tered for <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Majeſties <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or Navy <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pay Impo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> Navie or otherwiſe, without Ticquet firſt obteined from the Im<g ref="char:EOLhyphen"/>poſt maſters for the ſame, and Impoſt paid, upon paine as before is expreſſed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28"/> That no Maulſter or other perſon whatſoever, that ſhall make any Mault, either for ſale or private uſe,<note place="margin">No Malſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſell or diſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> without t<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> &amp; Impoſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> for which any Impoſition is by this Proclamation to be paid, ſhall deliver or any waies dispoſe
+<pb n="16" facs="tcp:107375:10"/>of any Mault which he or they ſhall make, untill they pay the Impoſt ſet upon the ſame, and obteine a Ticquet from the Impoſt maſters, upon paine of five ſhillings for every barrell of Mault delivered or dispoſed of without Ticquet as aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="29"/> That no manner of perſon or perſons whatſoever, ſhall from and after the publiſhing of this Proclamation,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>road<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to be ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> without <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> paid.</note> preſume to ſend or export by Land, out of the limmits aforeſaid, any Broadcloath or other commodity (not having formerly paid Cuſtome and Impoſt in the Cuſtomehouſe by importation) without a ticquet from the Impoſt maſters firſt obteined, and impoſt paid for the ſame, according the rates before expreſſed, upon paine as aforeſaid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="30"/> That all perſon or perſons, that have now in their cuſtody or poſſeſſion,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g to be <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> any ſort of fire wood, Seacoale or Coome, for ſale, for which impoſt is by this Proclamation to be paid, ſhall forthwith after publiſhing of this Proclamation, enter their names and dwel<g ref="char:EOLhyphen"/>ling places in the Impoſt Office, with the full quantity of all the fire wood, Seacoale and Coome, they have in their reſpective poſſeſſi<g ref="char:EOLhyphen"/>ons, and not ſell or any waies diſpoſe of any part thereof, with<g ref="char:EOLhyphen"/>out Ticquet from the ſaid impoſt Office, upon paine of forty ſhil<g ref="char:EOLhyphen"/>lings for every ſuch default.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="31"/> That no perſon or perſons whatſoever, receive or cauſe to be received,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o receive <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g before <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</note> any ſort of fire wood, Seacoale or Coome, being already Landed, or hereafter to be Landed for ſale, before the impoſt thereof be paid, and a Ticquet obteined from the impoſt maſters for the ſame, upon the like paine.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="32"/> That Officers and Souldiers, within the City and Suburbs of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> or County of <hi>Dublin,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ers and <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>iers to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>poſition <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ers.</note> brewing either for their own uſe, or retaile any Ale or Beere, or ſlaughtering Cattell, or committing any act contrary to this Proclamation, be compelled to conforme them<g ref="char:EOLhyphen"/>ſelves as well as others, to the ſaid Proclamation. And to that end
+<pb n="17" facs="tcp:107375:10"/>the Commiſſioners herein entruſted, are hereby Authorized to pro<g ref="char:EOLhyphen"/>ceed with them, as they doe with others that are no Souldiers; Wherein alſo We pray and require the Governor of His Majeſties Forces, in the City and Suburbs of <hi>Dublin,</hi> or the time being, as alſo all Commanders, Officers, and Souldiers within the County of <hi>Dublin,</hi> to be ayding and aſſiſting to the ſaid Commiſſioners, or any by them authorized, from time to time as there may be occaſion.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="33"/> That no perſon or perſons, of what degree or quality ſoever,<note place="margin">None t<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> reſiſtan<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> any imp<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Officer<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Impoſt <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> ſhall give any impediment or reſiſtance to any of the wayters, or other Officers belonging to the impoſt Office, or any other authorized by the Commiſſioners thereof, for ſearching any part of his or their houſes, ſhops, Cellars or ſtorehouſes, for and about His Majeſties Service, in the execution of this Proclamation, upon paine of five pounds for every time he or they ſhall ſoe offend.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="34"/> That all the paines penalties and forfeitures, hereby impo<g ref="char:EOLhyphen"/>ſed or ſet upon ſuch as ſhall offend in any of the before mentioned premiſes,<note place="margin">Penalt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> levied <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the goo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the offe<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> be levyed upon the goods and chattles of the offenders, and to be paid to the Impoſt maſters, and the one moiety thereof, by them given to the informer, and the other to be paid to his Majeſties Vice-Treaſurer and Treaſurer at warres, or to whom he ſhall appoint, to be by him iſſued out and accompted for, in manner and forme aforeſaid. And WE require all Majors, Sheriffes, Iuſtices of Peace, and all other His MAJESTIES Officers, Miniſters, and loving Sub<g ref="char:EOLhyphen"/>jects, whom it may concerne, and particularly all Collonels,<note place="margin">All to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the ex<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of this <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>clama<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> Commanders, Officers, and Souldiers, of His MAJESTIES Armie, to be helping ayding and aſſiſting in the due execution of this Proclamation, from time to time as there ſhall be occa<g ref="char:EOLhyphen"/>ſion. And WE Require the Major, and Sherriffes, of the City of <hi>Dublin,</hi> to cauſe this Proclamation, to be forthwith publiſhed and Proclaimed, throughout this City and Suburbs of
+<pb n="18" facs="tcp:107375:11"/>
+               <hi>Dublin<g ref="char:punc">▪</g>
+               </hi> As WE alſo Require the Sherriffe of the County of <hi>Dublin,</hi> to cauſe the ſame to be forthwith publiſhed and Pro<g ref="char:EOLhyphen"/>claimed, throughout the ſaid County of <hi>Dublin.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Given at His Majeſties Caſtle of</hi> Dublin, <date>9. <hi>December,</hi> 1644.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>R. Bolton Canc.</item>
+                     <item>Roſcomon.</item>
+                     <item>Ant. Midenſis.</item>
+                     <item>Cha. Lambart.</item>
+                     <item>Fr. Willoughby.</item>
+                     <item>Tho. Lucas.</item>
+                     <item>G. Wentworth.</item>
+                  </list>
+               </signed>
+            </closer>
+            <closer>God ſave the King.</closer>
+            <pb facs="tcp:107375:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
